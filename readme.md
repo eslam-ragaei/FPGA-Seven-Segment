@@ -173,5 +173,22 @@ ITI — **Teleco-Cloud Track Trainee**
 -   **GitHub:** (https://www.linkedin.com/in/eslam-ragaei/)
     
 * * *
-
-If you want, I can now generate the **README for your second project (BCD counter)** so your whole repo stays consistent and professional.
+## 📄 License — All Rights Reserved  
+  
+Copyright (c) 2025 Eslam Mohamed    
+All Rights Reserved.  
+  
+This repository and its contents are provided for \*\*viewing and educational reference only\*\*.    
+No part of this project may be:  
+  
+- copied    
+- reproduced    
+- modified    
+- distributed    
+- used in a commercial or non-commercial project    
+  
+without \*\*explicit written permission\*\* from the author.  
+  
+For permission requests, please contact:    
+(https://www.linkedin.com/in/eslam-ragaei/)
+* * *
