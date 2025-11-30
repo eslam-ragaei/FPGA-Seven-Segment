@@ -149,7 +149,6 @@ Example mapping:
 AI & Telecommunications Enthusiast  
 Communication & Electronics Engineer  
 ITI — **Teleco-Cloud Track Trainee**  
-3× Team Lead | Interested in FPGA, Cloud Systems, Networking, and AI.
 
 * * *
 
