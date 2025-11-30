@@ -1,0 +1,15 @@
+D:/iTi/CA/Labs/Lab_2/seven_segment/seven.v {1 {vlog -work work -stats=none D:/iTi/CA/Labs/Lab_2/seven_segment/seven.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module seven_segment
+
+Top level modules:
+	seven_segment
+
+} {} {}} D:/iTi/CA/Labs/Lab_2/seven_segment/seven_tb.v {1 {vlog -work work -stats=none D:/iTi/CA/Labs/Lab_2/seven_segment/seven_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module seven_segment_tb
+
+Top level modules:
+	seven_segment_tb
+
+} {} {}}
